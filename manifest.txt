@@ -1,0 +1,2 @@
+Main-Class: com.pos.Main
+Class-Path: lib/flatlaf-2.5.jar lib/jbcrypt-0.4.jar lib/mysql-connector-java-8.0.28.jar 

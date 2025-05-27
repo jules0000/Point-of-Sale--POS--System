@@ -1,0 +1,1 @@
+ALTER TABLE inventory ADD COLUMN image_path VARCHAR(255) DEFAULT NULL; 
