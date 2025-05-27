@@ -209,11 +209,6 @@ src/main/java/com/pos/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributors
-
-- Your Name
-- Other Contributors
-
 ## Acknowledgments
 
 - FlatLaf for the modern UI components
